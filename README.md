@@ -33,7 +33,7 @@ https://cran.r-project.org/web/packages/CORElearn/CORElearn.pdf
 ### FSelector
 
 Examples: <br>
-https://miningthedetails.com/blog/r/fselector/
+https://miningthedetails.com/blog/r/fselector/  <br>
 CRAN pdf: <br>
 https://cran.r-project.org/web/packages/FSelector/FSelector.pdf
 
