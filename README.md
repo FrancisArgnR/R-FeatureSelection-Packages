@@ -27,6 +27,8 @@ https://cran.r-project.org/web/packages/caret/caret.pdf
 
 ### CORElearn
 
+Examples: <br>
+https://ucilnica.fri.uni-lj.si/pluginfile.php/24621/mod_resource/content/3/lab%205%20-%20attribute%20evaluation.R <br>
 CRAN pdf: <br>
 https://cran.r-project.org/web/packages/CORElearn/CORElearn.pdf
 
