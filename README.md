@@ -25,6 +25,13 @@ https://machinelearningmastery.com/feature-selection-with-the-caret-r-package/ <
 CRAN pdf: <br>
 https://cran.r-project.org/web/packages/caret/caret.pdf
 
+### spFSR
+
+Examples: <br>
+https://cran.r-project.org/web/packages/spFSR/vignettes/spFSR.html <br>
+CRAN pdf: <br>
+https://cran.r-project.org/web/packages/spFSR/spFSR.pdf
+
 ### CORElearn
 
 Examples: <br>
