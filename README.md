@@ -32,6 +32,13 @@ https://cran.r-project.org/web/packages/spFSR/vignettes/spFSR.html <br>
 CRAN pdf: <br>
 https://cran.r-project.org/web/packages/spFSR/spFSR.pdf
 
+### varSelRF
+
+Examples: <br>
+https://www.kaggle.com/netzone/mushroom-classification-using-varselrf <br>
+CRAN pdf: <br>
+https://cran.r-project.org/web/packages/varSelRF/varSelRF.pdf
+
 ### CORElearn
 
 Examples: <br>
@@ -45,11 +52,6 @@ Examples: <br>
 https://miningthedetails.com/blog/r/fselector/  <br>
 CRAN pdf: <br>
 https://cran.r-project.org/web/packages/FSelector/FSelector.pdf
-
-### varSelRF
-
-CRAN pdf: <br>
-https://cran.r-project.org/web/packages/varSelRF/varSelRF.pdf
 
 ### featurefinder
 
