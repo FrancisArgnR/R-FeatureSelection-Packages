@@ -58,3 +58,7 @@ https://cran.r-project.org/web/packages/FSelector/FSelector.pdf
 CRAN pdf: <br>
 https://cran.r-project.org/web/packages/featurefinder/featurefinder.pdf
 
+### RWeka
+
+CRAN pdf: <br>
+https://cran.r-project.org/web/packages/RWeka/RWeka.pdf
