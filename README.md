@@ -60,12 +60,14 @@ https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0142-8  <br>
 CRAN pdf: <br>
 https://cran.r-project.org/web/packages/EFS/EFS.pdf
 
+### RWeka
+
+CRAN pdf: <br>
+https://cran.r-project.org/web/packages/RWeka/RWeka.pdf
+
 ### featurefinder
 
 CRAN pdf: <br>
 https://cran.r-project.org/web/packages/featurefinder/featurefinder.pdf
 
-### RWeka
 
-CRAN pdf: <br>
-https://cran.r-project.org/web/packages/RWeka/RWeka.pdf
