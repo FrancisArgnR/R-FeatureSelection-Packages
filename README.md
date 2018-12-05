@@ -53,6 +53,13 @@ https://miningthedetails.com/blog/r/fselector/  <br>
 CRAN pdf: <br>
 https://cran.r-project.org/web/packages/FSelector/FSelector.pdf
 
+### EFS
+
+Examples: <br>
+https://biodatamining.biomedcentral.com/articles/10.1186/s13040-017-0142-8  <br>
+CRAN pdf: <br>
+https://cran.r-project.org/web/packages/EFS/EFS.pdf
+
 ### featurefinder
 
 CRAN pdf: <br>
