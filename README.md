@@ -6,6 +6,13 @@ Introduction to feature selection: https://www.analyticsvidhya.com/blog/2016/12/
 
 ## Packages
 
+### FSinR
+
+Examples: <br>
+https://cran.r-project.org/web/packages/FSinR/vignettes/FSinR.html
+CRAN pdf: <br>
+https://cran.r-project.org/web/packages/FSinR/FSinR.pdf
+
 ### Boruta
 
 Examples: <br>
